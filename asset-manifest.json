@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/orbit-visualiser/static/css/main.3f03c6b9.chunk.css",
+    "main.js": "/orbit-visualiser/static/js/main.172ef813.chunk.js",
+    "main.js.map": "/orbit-visualiser/static/js/main.172ef813.chunk.js.map",
+    "runtime-main.js": "/orbit-visualiser/static/js/runtime-main.617da14a.js",
+    "runtime-main.js.map": "/orbit-visualiser/static/js/runtime-main.617da14a.js.map",
+    "static/js/2.549d0c43.chunk.js": "/orbit-visualiser/static/js/2.549d0c43.chunk.js",
+    "static/js/2.549d0c43.chunk.js.map": "/orbit-visualiser/static/js/2.549d0c43.chunk.js.map",
+    "static/js/3.f0b26e42.chunk.js": "/orbit-visualiser/static/js/3.f0b26e42.chunk.js",
+    "static/js/3.f0b26e42.chunk.js.map": "/orbit-visualiser/static/js/3.f0b26e42.chunk.js.map",
+    "index.html": "/orbit-visualiser/index.html",
+    "static/css/main.3f03c6b9.chunk.css.map": "/orbit-visualiser/static/css/main.3f03c6b9.chunk.css.map",
+    "static/js/2.549d0c43.chunk.js.LICENSE.txt": "/orbit-visualiser/static/js/2.549d0c43.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/orbit-visualiser/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.617da14a.js",
+    "static/js/2.549d0c43.chunk.js",
+    "static/css/main.3f03c6b9.chunk.css",
+    "static/js/main.172ef813.chunk.js"
+  ]
+}
