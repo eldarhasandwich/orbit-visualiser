@@ -16,7 +16,6 @@ const OrbitListItem = (props: {
     <Card
       size="small"
       title="Orbit"
-      style={{ width: 300 }}
       extra={<a onClick={() => { rmOrbitFn(id) }} style={{ color: "red" }}>Delete</a>}
     >
       <p> Eccentricity {orbit.eccentricity} </p>

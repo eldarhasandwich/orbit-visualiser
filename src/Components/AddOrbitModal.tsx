@@ -69,13 +69,10 @@ const AddOrbitModal = (props: {
 
   const allValid = inputContents.length === inputContents.filter(i => i.isValid).length
 
-  console.log({allValid})
-
   return (
     <Card
       size="small"
       title="New Orbit"
-      style={{ width: 300 }}
       extra={
         <Button
           disabled={!allValid}
