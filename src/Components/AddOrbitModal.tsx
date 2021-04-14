@@ -16,13 +16,7 @@ const AddOrbitModal = (props: {
   const [t, setT] = useState("0")
 
   const isValidNumber = (n: string): boolean => {
-
-    if (n === "0") return true
-
-    if (parseFloat(n).toString() === n) return true
-    if (parseInt(n).toString() === n) return true
-
-    return false
+    return (/^[0-9][0-9]*(\.[0-9][0-9]*)?$/).test(n)
   }
 
   const resetInput = () => {
